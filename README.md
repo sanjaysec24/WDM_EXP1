@@ -54,6 +54,7 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 
+![Uploading image.png…]()
 
 
 ### PREPROCESSING
