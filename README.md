@@ -54,7 +54,7 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 
-![Uploading image.png…]()
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/119b2867-c161-43d8-9af9-e707590a047c" />
 
 
 ### PREPROCESSING
